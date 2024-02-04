@@ -6,20 +6,21 @@
 
 ### Résumé
 
-You can see PDF preview of the compact resume layout  [here](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/blob/master/examples/resume.pdf).
+You can see PDF preview of the compact resume layout  [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf).
 
 | Page 1 | Page 2 |
 |:------:|:------:|
-| [![Résumé](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/master/examples/resume.pdf) |
-| [![Résumé](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/master/examples/resume.pdf) |
+| [![Résumé](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume-0.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf) |
+| [![Résumé](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume-1.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf) |
 
 ### Cover Letter
 
-You can see PDF preview of the compact cover letter layout [here](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/blob/master/examples/coverletter.pdf).
+You can see PDF preview of the compact cover letter layout [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf).
 
 | Without Sections | With Sections |
 |:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/master/examples/coverletter-0.png)](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/master/examples/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/capac/Comapct-Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/capac/Compact-Awesome-CV/master/examples/coverletter.pdf) |
+| [![Cover Letter (Traditional)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter-0.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf) |
+| [![Cover Letter (Awesome)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter-1.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf) |
 
 
 ## How to Use
