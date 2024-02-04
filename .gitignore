@@ -20,10 +20,3 @@
 ### Mac OS X ###
 ## Mac OS X metadata files:
 *.DS_Store
-
-# personal resumes
-resume-subfolders/
-resume_data_scientist.*
-resume_ds_ml.*
-awesome-cv-backup.cls
-cover-letter.*
