@@ -10,17 +10,15 @@ You can see PDF preview of the compact resume layout  [here](https://github.com/
 
 | Page 1 | Page 2 |
 |:------:|:------:|
-| [![Résumé](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume-0.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf) |
-| [![Résumé](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume-1.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf) |
+| [![Résumé (First page)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume-0.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf) | [![Résumé (Second page)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume-1.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf) |
 
 ### Cover Letter
 
-You can see PDF preview of the compact cover letter layout [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf).
+You can see PDF preview of the compact cover letter layout (without sections) [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf).
 
 | Without Sections | With Sections |
 |:---:|:---:|
-| [![Cover Letter (Traditional)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter-0.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf) |
-| [![Cover Letter (Awesome)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter-1.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf) |
+| [![Cover Letter (Traditional)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter-0.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf) | [![Cover Letter (Wth photo)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter-1.png)](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf) |
 
 
 ## How to Use
