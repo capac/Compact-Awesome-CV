@@ -1,12 +1,12 @@
 # Compact Awesome CV
 
-**Compact Awesome CV** is LaTeX template for a **CV (Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm). The template reduces spaces between section entries and changes font styles, colors and changing some default icons used in the header.
+**Compact Awesome CV** is LaTeX template for **CV (Curriculum Vitae)**, **Résumé** or **Cover Letter** documents, inspired by [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm). The template reduces spaces between section entries, changes some font styles, colors and default icons used in the template header.
 
 ## Preview
 
 ### Résumé
 
-You can see PDF preview of the compact resume layout  [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf).
+You can see a PDF preview of the compact résumé layout  [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/resume.pdf).
 
 | Page 1 | Page 2 |
 |:------:|:------:|
@@ -14,7 +14,7 @@ You can see PDF preview of the compact resume layout  [here](https://github.com/
 
 ### Cover Letter
 
-You can see PDF preview of the compact cover letter layout (without sections) [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf).
+You can see a PDF preview of the compact cover letter layout (without sections) [here](https://github.com/capac/Compact-Awesome-CV/blob/main/examples/coverletter.pdf).
 
 | Without Sections | With Sections |
 |:---:|:---:|
@@ -25,17 +25,17 @@ You can see PDF preview of the compact cover letter layout (without sections) [h
 
 ### Requirements
 
-A full TeX distribution is required to compile TeX documents. Various distributions for [different operating systems (Windows, Mac, \*nix)](http://tex.stackexchange.com/q/55437) are available, but the recommendation is to install directly from [TeX Live](https://tug.org/texlive/).
+A full TeX distribution is required to compile your TeX documents. Various distributions for [different operating systems (Windows, Mac, \*nix)](http://tex.stackexchange.com/q/55437) are available, but the recommended suggestion is to install it directly from [TeX Live](https://tug.org/texlive/).
 
 #### Linux
 
-On Linux you can [install TeX from upstream](https://tex.stackexchange.com/q/1092) which is recommended because it return the most up-to-date version of TeX Live. You can also run `sudo apt-get install texlive-full` but it's generally not the most up-to-date version.
+On Linux you can [install TeX from upstream](https://tex.stackexchange.com/q/1092) which is recommended because it returns the most up-to-date version of TeX Live. You can also run `sudo apt-get install texlive-full` but it'll generally not give you the most up-to-date version.
 
 #### macOS
 
-On macOS you can easily install Tex Live by installing [MacTeX distribution](https://tug.org/mactex/) or, if you have [Homebrew](https://brew.sh), by running `brew install texlive`, which will install the full version, or `brew install basictex` for a minimal TeX working environment.
+On macOS you can easily install Tex Live by installing [MacTeX distribution](https://tug.org/mactex/) or, if you have [Homebrew](https://brew.sh), by running `brew install texlive` which will install the full version, or `brew install basictex` for a minimal TeX working environment.
 
-If you don't want to install the dependencies on your system, this can also be obtained via [Docker](https://docker.com).
+If you don't want to install all of the dependencies on your system, you can just simply use [Docker](https://docker.com) (see below).
 
 ### Usage
 
@@ -45,22 +45,22 @@ At a command prompt, run:
 xelatex {your-cv}.tex
 ```
 
-Or using docker:
+Or using Docker:
 
 ```bash
 docker run --rm --user $(id -u):$(id -g) -i -w "/doc" -v "$PWD":/doc thomasweise/texlive make
 ```
 
-In either case, this should result in the creation of ``{your-cv}.pdf``
+In both case, this will result in the creation of ``{your-cv}.pdf``
 
 
 ## Credits
 
 [**LaTeX**](https://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
-[**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome) is bindings for FontAwesome icons to be used in XeLaTeX.
+[**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome) is the bindings package for FontAwesome icons used in XeLaTeX.
 
-[**Roboto**](https://github.com/google/roboto) is the default font on Android and ChromeOS, and the recommended font for Google’s visual language, Material Design.
+[**Roboto**](https://github.com/google/roboto) is the default font set on Android and ChromeOS, and the recommended font for Google’s visual language, Material Design.
 
 [**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
 
