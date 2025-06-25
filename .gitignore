@@ -28,9 +28,5 @@ outdated-resumes/
 resume-ds-in-other-formats/
 resume-subfolders/
 cover-letters/
-resume_ds_long.pdf
-resume_ds_long.tex
-resume_ds_short.pdf
-resume_ds_short.tex
-resume_teaching.pdf
-resume_teaching.tex
+resume*.pdf
+resume*.tex
